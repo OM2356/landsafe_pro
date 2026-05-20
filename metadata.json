@@ -1,0 +1,6 @@
+{
+  "name": "LandSafe Pro",
+  "description": "A secure document verification and analysis platform for land and property documents, featuring AI-powered risk assessment, analytics dashboard, and secure storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
